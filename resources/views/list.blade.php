@@ -9,8 +9,9 @@
   <ul class="list-group">
   <li class="list-group-item active" aria-current="true">vCARD List</li>
   <div class="list-group">
-    <a href="user1" class="list-group-item list-group-item-action">เคซัง</a>
-    <a href="user2" class="list-group-item list-group-item-action">คุณอิง</a>
+    <a href="{{('/Keiichi')}}" class="list-group-item list-group-item-action">เคซัง</a>
+    <a href="{{('/Thaweephan')}}" class="list-group-item list-group-item-action">คุณอิง</a>
+    
  
 </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3a.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>

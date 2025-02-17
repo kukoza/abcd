@@ -8,9 +8,7 @@ Route::get('/', function () {
 Route::get('list', function () {
     return view ('list');
 });
-Route::get('user1', function () {
-    return view ('user1');
-});
-Route::get('user2', function () {
-    return view ('user2');
-});
+Route::get('/Keiichi', [App\Http\Controllers\UserController::class,'User1']);
+Route::get('/Thaweephan', [App\Http\Controllers\UserController::class,'User2']);
+
+
