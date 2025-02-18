@@ -3,11 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>vCARD NZT</title>
+    <title>vCARD Mr.Thaweephan</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   </head>
   <body>
-    <hr>
+  <hr>
+  <hr>
+  <hr>
+  <hr>
   <div class="container">
   <div class="card text-center">
   <div class="card-header">
@@ -15,7 +18,7 @@
   </div>
   <div class="card-body">
     
-  <img src="https://img5.pic.in.th/file/secure-sv1/Mr.Thaweephan-Engcanusorn-President.jpg" class="card-img-top" alt="">
+  <img src="https://img5.pic.in.th/file/secure-sv1/Mr.Thaweephan-Engcanusorn-President1f6ad1cf198025b79.jpg" class="card-img-top" alt="">
   
   
   
@@ -30,7 +33,7 @@
   <button2 onclick="goToLink2()"class="btn btn-outline-primary">Save Image</button2> 
   <script>  
   function goToLink2() {  
-    window.open("https://drive.usercontent.google.com/u/0/uc?id=1pSpvNo06a6tIZYwRUtL1_iNZlWfmM39z&export=download", "_blank");     //แทรง link
+    window.open("https://drive.usercontent.google.com/u/0/uc?id=1QBXjQ7tYGRcn07V4_dQ9DiAsuTHZ2x4Q&export=download", "_blank");     //แทรง link
   }  
   </script>
   

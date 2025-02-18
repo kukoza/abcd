@@ -3,10 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>vCARD NZT</title>
+    <title>Mr.Tanahashi</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   </head>
   <body>
+  <hr>
+  <hr>
+  <hr>
   <hr>
   <div class="container">
   <div class="card text-center">
@@ -15,7 +18,7 @@
   </div>
   <div class="card-body">
     
-  <img src="https://img5.pic.in.th/file/secure-sv1/Mr.-Keiichi-Tanahashi-Sales-_-Marketing-Manager.jpg" class="card-img-top" alt="">
+  <img src="https://img5.pic.in.th/file/secure-sv1/Mr.-Keiichi-Tanahashi-Sales-_-Marketing-Manager8d42391daddf08a4.jpg" class="card-img-top" alt="">
   
   
   
@@ -30,7 +33,7 @@
   <button2 onclick="goToLink2()"class="btn btn-outline-primary">Save Image</button2> 
   <script>  
   function goToLink2() {  
-    window.open("https://drive.usercontent.google.com/u/0/uc?id=1NACz6lcPoDdpjRShJjqJnJgejd53ArUF&export=download", "_blank");     //แทรง link
+    window.open("https://drive.usercontent.google.com/u/0/uc?id=1GOiH__qlQbqWMQdju_7QWfVhSbegx2hU&export=download", "_blank");     //แทรง link
   }  
   </script>
   
