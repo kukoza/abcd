@@ -8,9 +8,6 @@
   </head>
   <body>
   <hr>
-  <hr>
-  <hr>
-  <hr>
   <div class="container">
   <div class="card text-center">
   <div class="card-header">
