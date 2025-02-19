@@ -10,8 +10,8 @@
   <li class="list-group-item active" aria-current="true">vCARD NZT</li>
   <div class="list-group">
   <a href="list" class="list-group-item list-group-item-action">vCARD List</a>
-  <a href="#" class="list-group-item list-group-item-action">vCARD Register</a>
-  <a href="#" class="list-group-item list-group-item-action">vCARD Edit</a>
+  <a href="#" class="list-group-item list-group-item-action" disabled >vCARD Register</a>
+  <a href="#" class="list-group-item list-group-item-action" disabled >vCARD Edit</a>
 </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3a.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
