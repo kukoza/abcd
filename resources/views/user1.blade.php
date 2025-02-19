@@ -29,7 +29,8 @@
   <button2 onclick="goToLink2()"class="btn btn-outline-primary">Save Image</button2> 
   <script>  
   function goToLink2() {  
-   window.open("https://drive.usercontent.google.com/u/0/uc?id=1GOiH__qlQbqWMQdju_7QWfVhSbegx2hU&export=download", "_blank");     //แทรง link
+   <a href = "img/Mr. Keiichi Tanahashi, Sales _ Marketing Manager(1).jpg" download>   
+
   }  
   </script>
   
