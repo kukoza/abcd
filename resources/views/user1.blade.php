@@ -19,18 +19,18 @@
   
   
   <button1 onclick="goToLink1()"class="btn btn-outline-primary">Google Map</button1> 
-  <script>
+  <scrip>
   function goToLink1() {  
    window.open("https://maps.app.goo.gl/vnq3uQ83GiLyre3WA", "_blank");     //แทรง link
   }  
   </script>
 
-   <a href="img/Mr. Keiichi Tanahashi, Sales _ Marketing Manager(1).jpg" download>
+  
+   <a href="img/Mr. Keiichi Tanahashi, Sales _ Marketing Manager(1).jpg" download>  
    <button2 class="btn btn-outline-primary">Save Image</button2>
    </a> 
-  </script>
-  
-  
+
+
   <button3 onclick="goToLink3()"class="btn btn-outline-primary">Save Contact</button3>
   <script>  
   function goToLink3() {  
