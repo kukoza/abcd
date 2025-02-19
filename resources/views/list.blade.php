@@ -24,6 +24,8 @@
     <a href="{{('/Orakran')}}" class="list-group-item list-group-item-action">Ms. Orakran Sae-Uing</a>
     <a href="{{('/Threechada')}}" class="list-group-item list-group-item-action">Ms. Threechada Choosuwan</a>
     <a href="{{('/Wannisa')}}" class="list-group-item list-group-item-action">Ms. Wannisa Wongwattanakul</a>
+    <a href="{{('/Channarong')}}" class="list-group-item list-group-item-action">Ms. Channarong Wangtong</a>
+    <a href="{{('/Wiroj')}}" class="list-group-item list-group-item-action">Ms. Wiroj</a>
  
 </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3a.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
