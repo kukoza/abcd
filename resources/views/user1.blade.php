@@ -14,7 +14,7 @@
   </div>
   <div class="card-body">
     
-  <img src="public/img/Mr. Keiichi Tanahashi, Sales _ Marketing Manager(1).jpg" class="card-img-top" alt="">
+  <img src="=public/img/Mr. Keiichi Tanahashi, Sales _ Marketing Manager(1).jpg" class="card-img-top" alt="">
   
   
   
