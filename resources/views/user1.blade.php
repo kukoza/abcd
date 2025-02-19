@@ -37,7 +37,7 @@
   <button3 onclick="goToLink3()"class="btn btn-outline-primary">Save Contact</button3>
   <script>  
   function goToLink3() {  
-    open("public/vcf/Mr. Keiichi Tanahashi(1).vcf", "_blank");  //แทรง link
+    open("vcf/Mr. Keiichi Tanahashi(1).vcf", "_blank");  //แทรง link
   }  
   </script>    
 
