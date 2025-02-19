@@ -26,7 +26,7 @@
   </script>
 
    <a href="img/Mr. Keiichi Tanahashi, Sales _ Marketing Manager(1).jpg" download>
-   <button>ดาวน์โหลดรูปภาพ</button>
+   <button2 class="btn btn-outline-primary">Save Image</button2>
    </a> 
   </script>
   
