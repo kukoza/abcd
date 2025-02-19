@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:ธีรศักดิ์ อุทัยสาง / Mr. Teerasak Utaisang
+N:Mr. Teerasak Utaisang ;ธีรศักดิ์ อุทัยสาง /;;;
+item1.EMAIL;TYPE=INTERNET:nozomi_pu@nozomi.co.th
+item1.X-ABLabel:
+item2.EMAIL;TYPE=INTERNET:nozomi_pu@hotmail.com
+item2.X-ABLabel:
+TEL;TYPE=CELL:098 669 9626
+TEL;TYPE=WORK:02 461 6288
+item3.TEL:02 461 6292
+item3.X-ABLabel:Work Fax
+ORG:Nozomi Enterprise (Thailand) Co.\, Ltd.
+TITLE:Purchasing Manager
+item4.URL:www.nozomi-th.com
+item4.X-ABLabel:_$!<HomePage>!$_
+NOTE:Nozomi Enterprise (Thailand) Co.\, Ltd. \n382 Moo4\, Baanklongsuan Rd.
+ \, Phrasamutjeidee\,\nSamut Prakan\, Thailand 10290
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzGUVw7URqZFszKfwwYacj
+ n_YnJSlm0GFUnxfutpaK2v2LpLR6HQ
+CATEGORIES:myContacts
+END:VCARD
