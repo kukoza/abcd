@@ -33,7 +33,7 @@
 <button3 onclick="goToLink3()"class="btn btn-outline-primary">Save Contact</button3>
 <script>  
 function goToLink3() {  
-open("vcf/Mr.Thaweephan Engcanusorn.vcf", "_blank");  //แทรง link
+open("vcf/Mr. Deacha Meechai.vcf", "_blank");  //แทรง link
 }  
 </script>    
 
