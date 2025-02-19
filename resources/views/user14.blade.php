@@ -14,7 +14,7 @@
   </div>
   <div class="card-body">
     
-  <img src="img/Mr.Thaweephan Engcanusorn, President(1).jpg" class="card-img-top">
+  <img src="img/Ms.Threechada, Secretary to the President.jpg" class="card-img-top">
   
   
   
@@ -26,7 +26,7 @@
   </script>
 
 
-<a href="img/Mr.Thaweephan Engcanusorn, President(1).jpg" download>  
+<a href="img/Ms.Threechada, Secretary to the President.jpg" download>  
    <button2 class="btn btn-outline-primary">Save Image</button2>
    </a> 
   
