@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:棚橋 啓一 / Mr. Keiichi Tanahashi
+N:棚橋　啓一 /; Mr. Keiichi Tanahashi;;;
+item1.EMAIL;TYPE=INTERNET:tanahashi@nozomi.co.th
+item1.X-ABLabel:
+TEL;TYPE=CELL:063 023 8914
+TEL;TYPE=WORK:02 461 6288
+item2.TEL:02 461 6292
+item2.X-ABLabel:Work Fax
+ORG:Nozomi Enterprise (Thailand) Co.\, Ltd.
+TITLE:Sales & Marketing Manager
+item3.URL:www.nozomi-th.com
+item3.X-ABLabel:_$!<HomePage>!$_
+NOTE:Nozomi Enterprise (Thailand) Co.\, Ltd. \n382 Moo4\, Baanklongsuan Rd.
+ \, Phrasamutjeidee\, \nSamut Prakan 10290 Thailand
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFYN6AUecRXQeRqKTVxqW
+ DD5b_imxWtALe79hZ-YPSR_t6xBkRP
+CATEGORIES:myContacts
+END:VCARD

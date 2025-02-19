@@ -10,18 +10,18 @@
   <div class="container">
   <div class="card text-center">
   <div class="card-header">
-    vCARD Nozomi​ Enterprise​ (Thailand) Co.,Ltd.
+   vCARD Nozomi​ Enterprise​ (Thailand) Co.,Ltd.
   </div>
   <div class="card-body">
     
-  <img src="https://img5.pic.in.th/file/secure-sv1/Mr.-Keiichi-Tanahashi-Sales-_-Marketing-Manager8d42391daddf08a4.jpg" class="card-img-top" alt="">
+  <img src="public\img\Mr. Keiichi Tanahashi, Sales _ Marketing Manager(1).jpg" class="card-img-top" alt="">
   
   
   
   <button1 onclick="goToLink1()"class="btn btn-outline-primary">Google Map</button1> 
-  <script>  
+  <script>
   function goToLink1() {  
-    window.open("https://maps.app.goo.gl/vnq3uQ83GiLyre3WA", "_blank");     //แทรง link
+   window.open("https://maps.app.goo.gl/vnq3uQ83GiLyre3WA", "_blank");     //แทรง link
   }  
   </script>
 
@@ -29,7 +29,7 @@
   <button2 onclick="goToLink2()"class="btn btn-outline-primary">Save Image</button2> 
   <script>  
   function goToLink2() {  
-    window.open("https://drive.usercontent.google.com/u/0/uc?id=1GOiH__qlQbqWMQdju_7QWfVhSbegx2hU&export=download", "_blank");     //แทรง link
+   window.open("https://drive.usercontent.google.com/u/0/uc?id=1GOiH__qlQbqWMQdju_7QWfVhSbegx2hU&export=download", "_blank");     //แทรง link
   }  
   </script>
   
@@ -37,7 +37,7 @@
   <button3 onclick="goToLink3()"class="btn btn-outline-primary">Save Contact</button3>
   <script>  
   function goToLink3() {  
-    open("https://drive.usercontent.google.com/u/0/uc?id=1KIpfU5wpn8M8eP1trbC2eBYXf40JNbc6&export=download", "_blank");  //แทรง link
+    open("public\vcf\Mr. Keiichi Tanahashi(1).vcf", "_blank");  //แทรง link
   }  
   </script>    
 
