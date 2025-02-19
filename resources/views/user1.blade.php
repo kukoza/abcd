@@ -19,19 +19,22 @@
   
   
   <button1 onclick="goToLink1()"class="btn btn-outline-primary">Google Map</button1> 
-  <scrip>
+  <script>
   function goToLink1() {  
    window.open("https://maps.app.goo.gl/vnq3uQ83GiLyre3WA", "_blank");     //แทรง link
   }  
   </script>
-
   
-   <a href="img/Mr. Keiichi Tanahashi, Sales _ Marketing Manager(1).jpg" download>  
-   <button2 class="btn btn-outline-primary">Save Image</button2>
-   </a> 
+  
+  <button2 class="btn btn-outline-primary">Save Image</button2>
+</script>{
+  <a href="img/Mr. Keiichi Tanahashi, Sales _ Marketing Manager(1).jpg" download>  
+  </a>
+  }
+  </script>
 
 
-  <button3 onclick="goToLink3()"class="btn btn-outline-primary">Save Contact</button3>
+<button3 onclick="goToLink3()"class="btn btn-outline-primary">Save Contact</button3>
   <script>  
   function goToLink3() {  
     open("vcf/Mr. Keiichi Tanahashi(1).vcf", "_blank");  //แทรง link
