@@ -10,36 +10,32 @@
   <div class="container">
   <div class="card text-center">
   <div class="card-header">
-    vCARD Nozomi​ Enterprise​ (Thailand) Co.,Ltd.
+   vCARD Nozomi​ Enterprise​ (Thailand) Co.,Ltd.
   </div>
   <div class="card-body">
     
-  <img src="https://img5.pic.in.th/file/secure-sv1/Mr.Thaweephan-Engcanusorn-President1f6ad1cf198025b79.jpg" class="card-img-top" alt="">
+  <img src="img/Mr.Thaweephan Engcanusorn, President(1).jpg" class="card-img-top">
   
   
   
   <button1 onclick="goToLink1()"class="btn btn-outline-primary">Google Map</button1> 
-  <script>  
+  <script>
   function goToLink1() {  
-    window.open("https://maps.app.goo.gl/vnq3uQ83GiLyre3WA", "_blank");     //แทรง link
+   window.open("https://maps.app.goo.gl/vnq3uQ83GiLyre3WA", "_blank");     //แทรง link
   }  
   </script>
 
 
-  <button2 onclick="goToLink2()"class="btn btn-outline-primary">Save Image</button2> 
-  <script>  
-  function goToLink2() {  
-    window.open("https://drive.usercontent.google.com/u/0/uc?id=1QBXjQ7tYGRcn07V4_dQ9DiAsuTHZ2x4Q&export=download", "_blank");     //แทรง link
-  }  
-  </script>
+<a href="img/Mr.Thaweephan Engcanusorn, President(1).jpg" download>  
+   <button2 class="btn btn-outline-primary">Save Image</button2>
+   </a> 
   
-  
-  <button3 onclick="goToLink3()"class="btn btn-outline-primary">Save Contact</button3>
-  <script>  
-  function goToLink3() {  
-    open("https://drive.usercontent.google.com/u/0/uc?id=1kK_u9SaPDBwM_bMIig7etoJEAzutuUPW&export=download", "_blank");  //แทรง link
-  }  
-  </script>    
+<button3 onclick="goToLink3()"class="btn btn-outline-primary">Save Contact</button3>
+<script>  
+function goToLink3() {  
+open("vcf/Mr.Thaweephan Engcanusorn.vcf", "_blank");  //แทรง link
+}  
+</script>    
 
 
 
