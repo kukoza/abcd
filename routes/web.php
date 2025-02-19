@@ -23,3 +23,5 @@ Route::get('/Thumrong', [App\Http\Controllers\UserController::class,'User12']);
 Route::get('/Orakran', [App\Http\Controllers\UserController::class,'User13']);
 Route::get('/Threechada', [App\Http\Controllers\UserController::class,'User14']);
 Route::get('/Wannisa', [App\Http\Controllers\UserController::class,'User15']);
+Route::get('/Channarong', [App\Http\Controllers\UserController::class,'User16']);
+Route::get('/Wiroj', [App\Http\Controllers\UserController::class,'User17']);
