@@ -25,13 +25,9 @@
   }  
   </script>
 
-
-  <button2 onclick="goToLink2()"class="btn btn-outline-primary">Save Image</button2> 
-  <script>  
-  function goToLink2() {  
-   <a href = "img/Mr. Keiichi Tanahashi, Sales _ Marketing Manager(1).jpg" download>   
-
-  }  
+   <a href="img/Mr. Keiichi Tanahashi, Sales _ Marketing Manager(1).jpg" download>
+   <button>ดาวน์โหลดรูปภาพ</button>
+   </a> 
   </script>
   
   
