@@ -27,11 +27,10 @@
   
   
   <button2 class="btn btn-outline-primary">Save Image</button2>
-</script>{
+</script>
   <a href="img/Mr. Keiichi Tanahashi, Sales _ Marketing Manager(1).jpg" download>  
   </a>
-  }
-  </script>
+</script>
 
 
 <button3 onclick="goToLink3()"class="btn btn-outline-primary">Save Contact</button3>
