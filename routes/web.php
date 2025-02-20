@@ -26,4 +26,4 @@ Route::get('/Wannisa', [App\Http\Controllers\UserController::class,'User15']);
 Route::get('/Wiroj', [App\Http\Controllers\UserController::class,'User16']);
 Route::get('/Channarong', [App\Http\Controllers\UserController::class,'User17']);
 Route::get('/Samran', [App\Http\Controllers\UserController::class,'User18']);
-Route::get('/Kanchana', [App\Http\Controllers\UserController::class,'User19']);
+Route::get('/Kanchana1', [App\Http\Controllers\UserController::class,'User19']);
