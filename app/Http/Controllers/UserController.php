@@ -57,4 +57,7 @@ class UserController extends Controller
     public function User17(Request $request){     
         return view('user17');
     }
+    public function User18(Request $request){     
+        return view('user18');
+    }
 }
