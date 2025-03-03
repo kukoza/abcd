@@ -14,7 +14,7 @@
   </div>
   <div class="card-body">
     
-  <img src="img/Mr. Thumrong, Store Manager.jpg" class="card-img-top">
+  <img src="img/Mr. Thumrong Luengoon_Vcard.jpg" class="card-img-top">
   
   
   
@@ -26,14 +26,14 @@
   </script>
 
 
-<a href="img/Mr. Thumrong, Store Manager.jpg" download>  
+<a href="img/Mr. Thumrong Luengoon_Vcard.jpg" download>  
    <button2 class="btn btn-outline-primary">Save Image</button2>
    </a> 
   
 <button3 onclick="goToLink3()"class="btn btn-outline-primary">Save Contact</button3>
 <script>  
 function goToLink3() {  
-open("vcf/Mr. Thumrong Luengoon.vcf", "_blank");  //แทรง link
+open("vcf/Mr. Thumrong Luengoon (2).vcf", "_blank");  //แทรง link
 }  
 </script>    
 
