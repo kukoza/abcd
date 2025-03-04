@@ -14,7 +14,7 @@
   </div>
   <div class="card-body">
     
-  <img src="img/Mr. Thumrong Luengoon_Vcard.jpg" class="card-img-top">
+  <img src="img/Mr. Thumrong Luengoon_Vcard(1).jpg" class="card-img-top">
   
   
   
@@ -26,7 +26,7 @@
   </script>
 
 
-<a href="img/Mr. Thumrong Luengoon_Vcard.jpg" download>  
+<a href="img/Mr. Thumrong Luengoon_Vcard(1).jpg" download>  
    <button2 class="btn btn-outline-primary">Save Image</button2>
    </a> 
   
