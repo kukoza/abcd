@@ -1,8 +1,0 @@
-คำสั่งที่ต้องรันใน Plesk หรือ SSH:
-
-chmod -R 755 storage/
-chmod -R 755 bootstrap/cache/
-
-หรือใน Plesk File Manager:
-- ตั้งค่า permissions ของโฟลเดอร์ storage/ เป็น 755
-- ตั้งค่า permissions ของโฟลเดอร์ bootstrap/cache/ เป็น 755

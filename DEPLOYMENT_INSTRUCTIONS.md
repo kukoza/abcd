@@ -18,7 +18,7 @@
   DB_DATABASE=your_database_name
   DB_USERNAME=your_username
   DB_PASSWORD=your_password
-  APP_URL=https://doc.nozomi-th.com
+  APP_URL=https://yourdomain.com
   ```
 
 ### 3. ตั้งค่า Permissions
